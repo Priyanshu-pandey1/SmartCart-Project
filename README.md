@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Unsupervised Learning: Clustering & Pattern Discovery
 
 This repository documents my deep dive into **Unsupervised Learning**, focusing on identifying hidden structures and groupings within unlabeled data.
@@ -37,3 +38,6 @@ Today, I explored density and connectivity-based algorithms to handle complex da
 
 ## 👤 Author
 **Priyanshu Pandey** [LinkedIn](https://www.linkedin.com/in/priyanshu-pandey-6a200a28b/) | [GitHub Profile](https://github.com/Priyanshu-pandey1)
+=======
+# SmartCart-Project
+>>>>>>> 2db2b87be5783aeb441a7f4b9226a7dec365e0ce
