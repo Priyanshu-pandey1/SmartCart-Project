@@ -32,7 +32,8 @@ Today, I explored density and connectivity-based algorithms to handle complex da
     * `KMeans.ipynb`: Centroid-based clustering and Elbow Method implementation.
     * `KMeansFor_iris.ipynb`: Application of K-Means on biological Iris data.
     * `hierarchical_clustering.ipynb`: **(New)** Connectivity-based clustering with Dendrograms.
-    * `DBSCAN.ipynb`: **(New)** Density-based clustering for noise-heavy datasets.
+    * `DBSCAN.ipynb`: **(New)** Density-based clustering for noise-heavy datasets. 
+  
 
 ---
 
