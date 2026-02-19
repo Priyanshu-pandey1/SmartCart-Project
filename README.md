@@ -30,7 +30,3 @@ Based on the cluster means, the population is divided into four distinct persona
 
 ---
 
-
-# Generating the cluster summary for profiling
-cluster_summary = X.groupby("clusters").mean()
-print(cluster_summary)
