@@ -24,9 +24,9 @@ Based on the cluster means, the population is divided into four distinct persona
 | Cluster | Persona | Key Characteristics |
 | :--- | :--- | :--- |
 | **Cluster 0** | **Moderate Families** | Mid-range income (~$39.6k), living with partners, highest number of children (~1.24). |
-| **Cluster 1** | **Premium Partners** | High income (~$72.8k), high spending (~$1236), frequent catalog and store shoppers. |
-| **Cluster 2** | **Budget Singles** | Lower income (~$36.9k), living alone, high web visits but lowest total spending (~$165). |
-| **Cluster 3** | **Elite Singles** | High income (~$70.7k), living alone, highest response rate to campaigns (32%). |
+| **Cluster 1** | **Premium Partners** | High income ($72.8k), high spending ($1236), frequent catalog and store shoppers. |
+| **Cluster 2** | **Budget Singles** | Lower income ($36.9k), living alone, high web visits but lowest total spending ($165). |
+| **Cluster 3** | **Elite Singles** | High income ($70.7k), living alone, highest response rate to campaigns (32%). |
 
 ---
 
